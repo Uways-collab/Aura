@@ -1,0 +1,6 @@
+{
+  "name": "AURA EV — Hyper-Performance Electric Supercar",
+  "description": "Interactive 3D WebGL automotive showcase for the AURA EV hyper-performance concept supercar with scroll-driven camera inspection, real-time PBR shaders, spec hotspots, and track reserve portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
